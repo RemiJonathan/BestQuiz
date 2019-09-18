@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BestQuiz</string>
+
+    <string name="Anime_Kanade">Kanade Tachibana (Angel Beats!) is a club president.</string>
+
+    <string name="Anime_Megumin">Megumin is a character from Gakkougurashi.</string>
+
+    <string name="Anime_Futabu">Futabu is an Anime about football.</string>
+
+    <string name="Anime_Elizabeth">The person inside Elizabeth is based on the director of Gintama.</string>
+
+    <string name="Anime_Konosuba">Konosuba is an Anime that takes place in an RPG.</string>
+
+    <string name="Anime_Naruto">Naruto is a story about a possesed child.</string>
+
+    <string name="Anime_Miku">Hatsune Miku is an anime.</string>
+
+    <string name="Anime_Alphonse">Alphonse is a big guy in small armor.</string>
+
+    <string name="Anime_Ash">Did it take Ash until 2019 to win the championship.</string>
+
+    <string name="Anime_Bleach">Bleach is an anime about a sword user named stawberry.</string>
+
+    <string name="Anime_DXD">High School DXD has 4 seasons.</string>
+
+    <string name="Anime_Felix">Felix from Re:zero is a boy.</string>
+
+    <string name="Anime_Kenshin">The creator of Rurouni Kenshin is a pedophile.</string>
+
+    <string name="Button_True">True</string>
+
+    <string name="Button_False">False</string>
+
+</resources>
