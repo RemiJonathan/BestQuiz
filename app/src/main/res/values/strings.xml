@@ -30,5 +30,9 @@
     <string name="Button_True">True</string>
 
     <string name="Button_False">False</string>
+    <string name="next_button">Next</string>
+
+    <string name="right_answer">Correct!</string>
+    <string name="wrong_answer">Incorrect :(</string>
 
 </resources>
