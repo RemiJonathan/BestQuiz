@@ -73,8 +73,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 updateQuestion();
                 break;
             case R.id.back_button:
-                //Toast.makeText(MainActivity.this, "Next", Toast.LENGTH_SHORT).show();
-                currentQuestionIndex = (currentQuestionIndex - 1) % questionBank.length;
+                //Toast.makeText(MainActivity.this, "Previous", Toast.LENGTH_SHORT).show();
+                if (currentQuestionIndex != 0) {
+                    currentQuestionIndex = (currentQuestionIndex - 1) % questionBank.length;
+                } else {
+                    Toast.makeText(MainActivity.this, "This is the first Question", Toast.LENGTH_SHORT).show();
+                }
                 updateQuestion();
                 break;
         }
