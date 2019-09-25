@@ -47,13 +47,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 //        Question question = new Question(R.string.Anime_Kenshin,true);
 
-
         falseButton.setOnClickListener(this);
         trueButton.setOnClickListener(this);
         nextButton.setOnClickListener(this);
         backButton.setOnClickListener(this);
 
-
+        //Initialize to correct current question index
+        updateQuestion();
     }
 
     @Override
